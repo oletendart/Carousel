@@ -5,6 +5,13 @@ html, body {
 ul {
     list-style: none;
 }
-.deactivate {
+li {
     display: none;
+}
+img {
+    width: 50%;
+    height: 50%;
+}
+.active {
+    display: block;
 }
